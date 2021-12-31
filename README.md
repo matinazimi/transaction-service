@@ -1,4 +1,4 @@
-# zibal
+# transaction service
 This project is simple project have 2 api for show transaction 
 
  1)first api live query on DB and calculate
